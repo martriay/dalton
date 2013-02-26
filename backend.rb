@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 require "sinatra"
 
-set :port, 81
+set :port, 80
 set :views, '.'
 
 get '/:hex' do
