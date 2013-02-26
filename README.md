@@ -1,7 +1,7 @@
 # Dalton
 
 ## Summary
-Dalton is a simple and minimalistic application created to display hex colors in a quick and easy way.
+Dalton is a simple, minimalistic and almost **useless** application created to display hex colors in a quick and easy way.
 ## Requirements (gems):
 * [Sinatra](http://www.sinatrarb.com/)
 * [Haml](http://haml.info/)
