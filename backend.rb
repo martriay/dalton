@@ -5,7 +5,7 @@ set :port, 80
 set :views, '.'
 
 get '/' do
-  haml :nohex 
+  haml :nohex, :locals => { :color => '' } 
 end
 
 get '/:hex' do
